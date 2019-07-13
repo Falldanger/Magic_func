@@ -1,0 +1,8 @@
+7. "Magic" methods
+
+Add the __toString () method to the Point Point (from the previous exercises) and implement it by returning to the form: "Point with coordinates (x, y)". Of course, instead of x and y must be specific values.
+Create 3 different Point objects and output them via echo.
+Implement the __get () method, which, when delayed to the fact that there is another instance of the message "Point Point works only in two-dimensional space."
+Similarly, do the __set () method when trying to change the z properties.
+Also, implement the call () method, where you will find a term as specified by 3 if you want to call the setZ () method.
+Create 1 Point object and make its clone. Hurry up that the cloning has been successful, try to change your own look from the objects and understand this property in both objects. They must be different.
